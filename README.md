@@ -33,9 +33,7 @@ The project demonstrates how to build a small **data pipeline** from database st
 ```
 weather-dakar-project
 │
-├── data_analysis.ipynb     # Jupyter notebook for data analysis
-├── database_connection.py  # PostgreSQL connection script
-├── queries.sql             # SQL queries used in the project
+├── projet_meteo_dakar.ipynb     # Jupyter notebook for data analysis
 └── README.md
 ```
 
