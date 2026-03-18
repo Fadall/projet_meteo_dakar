@@ -63,7 +63,7 @@ pip install pandas matplotlib psycopg2
 
 ## Database Configuration
 
-Update the database configuration in the script:
+Update the database configuration in the script (i used Render):
 
 ```
 DB_CONFIG = {
