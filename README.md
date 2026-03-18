@@ -44,13 +44,13 @@ weather-dakar-project
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/weather-dakar-project.git
+git clone https://github.com/Fadall/projet_meteo_dakar.git
 ```
 
 Navigate into the project folder:
 
 ```
-cd weather-dakar-project
+cd projet_meteo_dakar
 ```
 
 Install dependencies:
